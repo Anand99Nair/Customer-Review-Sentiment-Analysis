@@ -53,13 +53,13 @@ Flipkart, being one of the largest e-commerce platforms, receives thousands of c
 Here are some insights from the dashboard:
 
 ### **Most Reviewed Products**
-![Most Reviewed Products](Screenshot/most_reviewed.png)
+![Most Reviewed Products](Screenshots/most_reviewed.png)
 
 ### **Best and Worst Rated Products**
-![Best and Worst Product](Screenshot/best_worst.png)
+![Best and Worst Product](Screenshots/best_worst.png)
 
 ### **Most Discussed Features by Sentiment**
-![Most Discussed Feature](Screenshot/most_discussed_feature.png)
+![Most Discussed Feature](Screenshots/most_discussed_feature.png)
 
 ---
 
